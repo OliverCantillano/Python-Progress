@@ -1,7 +1,7 @@
 # VARIABLES IN PYTHON
 
 # String    ///  The string have to be with "" or ''
-email = 'jimmy.f.cantillano@gmail.com'
+email = 'Oliver.Cantillano@fakeemail.com'
 print(f'Your Email Is {email}')
 
 # Integers   /// They are just numbers
