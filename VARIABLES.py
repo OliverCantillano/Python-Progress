@@ -25,3 +25,5 @@ if is_student:
     print('Your are a very successful student ')
 else:
     print('Your are not a successful student ')
+
+That's it right now
